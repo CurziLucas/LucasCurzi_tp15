@@ -1,0 +1,16 @@
+{
+  "name": "olms",
+  "version": "1.0.0",
+  "main": "(app.js) (peliculas.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "CurziLucas <lucasantoniocurzi@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
